@@ -1,2 +1,3 @@
 Estilos varios
 Color de fondo y resaltado en nergita
+font-size 18px

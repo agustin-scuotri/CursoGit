@@ -1,3 +1,6 @@
 Empresa A, descripcion de la empresa
 Agrego varios estilos
 Agrego otras modificaciones desde GitHub
+
+//arreglo fallos
+<p> Este es un parrafo desde el proyecto clonado </p>
